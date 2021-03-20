@@ -21,7 +21,7 @@
 | DISTRICT    | 地区:如河南省-郑州市-金水区|
 | DEVICETOKEN | 你抓包得到的devicetoken|
 | SCKEY       | sever酱key|
-- 4. Devicetoken获取方法
+- 4.Devicetoken获取方法
 下载安装[小黄鸟](https://wwi.lanzous.com/iJiYSn5cc5c)
 抓取devicetoken
 ![](https://ae01.alicdn.com/kf/Uaf84ccdb77434a7c922ae1a5320866deG.jpg)
